@@ -10,11 +10,11 @@
 
 📕 Lenguajes:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,arduino,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py)](https://skillicons.dev)
 
 📘 Herramientas:
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
 
 🗄 Base de Datos:
 
