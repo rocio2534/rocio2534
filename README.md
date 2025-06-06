@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocio Pereira<a href="https://100rabhcsmc.github.io/Me.io/" target="blank"></a></h1>
 
+<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif" />
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre Mi ....***
 
 👨‍💻 &nbsp;Alumno: Rocio Pereira
